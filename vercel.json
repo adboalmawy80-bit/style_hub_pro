@@ -3,6 +3,6 @@
   "framework": null,
   "installCommand": "",
   "buildCommand": "",
-  "outputDirectory": "frontend",
+  "outputDirectory": "style_hub_pro/frontend",
   "cleanUrls": true
 }
